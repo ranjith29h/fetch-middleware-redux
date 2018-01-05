@@ -38,12 +38,17 @@ After importing and wrapping with store we can use it in action creator
  }
 ```
 ## Required field
-  #### `method : Request method to api`
-  #### `url : Request URL`
-  #### `types : action to be called after Request ( type[0] is success and type[1] is for error)`
-  
+  #### `method :`
+  Request method to api
+  #### `url :`
+  Request URL
+  #### `types :`
+  action to be called after Request ( type[0] is success and type[1] is for error)
   
 ## Optional includes
-  #### `body : data to post/put/patch method`
-  #### `credentials : Requesting Url with credentials`
-  #### `headers : Requesting with headers`
+  #### `body :`
+  Data to post/put/patch method
+  #### `credentials :`
+  Requesting Url with credentials
+  #### `headers :`
+  Requesting with headers
