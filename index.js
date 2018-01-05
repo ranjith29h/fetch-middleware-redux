@@ -1,1 +1,1 @@
-export {default as Api}  from './src/';
+export {default as fetchApi}  from './src/';
