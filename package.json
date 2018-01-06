@@ -1,6 +1,6 @@
 {
   "name": "fetch-middleware-redux",
-  "version": "0.0.1",
+  "version": "0.0.14",
   "description": "redux middleware to fetch api",
   "main": "index.js",
   "scripts": {
